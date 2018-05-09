@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1525635382 source:c:\users\pablo\desktop\parcial 1\abm\main.c
+	"ABM.h"
+
+1525815949 c:\users\pablo\desktop\parcial 1\abm\abm.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1525822000 source:c:\users\pablo\desktop\parcial 1\abm\abm.c
+	"ABM.h"
+
+1525856698 source:e:\aafede\fac\parcial1\abm.c
+	"ABM.h"
+
+1525855021 e:\aafede\fac\parcial1\abm.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1525845270 source:e:\aafede\fac\parcial1\main.c
+	"ABM.h"
+
